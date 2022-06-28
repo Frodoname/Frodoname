@@ -2,10 +2,9 @@
 
 I'm a beginner in IOS Dev, now i'm in search for my first intership or trainee/junior position, but also continue studying every day.
 
+Also i train algorithms on the [Codewars](https://www.codewars.com/users/Teoden/badges/large): 
 
-Also i train algorithms on the Codewars: 
-
-[codewars achiv](https://www.codewars.com/users/Teoden/badges/large)
+<img src="https://www.codewars.com/users/Teoden/badges/large">
 
 <!--
 **Frodoname/Frodoname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
